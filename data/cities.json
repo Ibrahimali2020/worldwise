@@ -1,0 +1,70 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": [
+        "Zongxi"
+      ],
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2023-12-13T19:06:37.852Z",
+      "notes": "",
+      "position": {
+        "lat": "32.8465591229961",
+        "lng": "109.58049064709255"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": [
+        "Toyokoro"
+      ],
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2023-12-13T19:06:42.201Z",
+      "notes": "",
+      "position": {
+        "lat": "42.81799507096155",
+        "lng": "143.4240918103979"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": [
+        "Alexandria"
+      ],
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-12-13T20:16:43.267Z",
+      "notes": "",
+      "position": {
+        "lat": "31.105228435047575",
+        "lng": "29.90409063132096"
+      },
+      "id": 98443205
+    }
+  ]
+}
